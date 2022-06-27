@@ -1,2 +1,1 @@
-# DGULION_10th# session-9
-# session9
+# session9 연습
